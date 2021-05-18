@@ -23,4 +23,4 @@ examples:
 
 For any datasets related questions, please contact `zheng_liu0307@hotmail.com
 
-For the full picture, [click here！](链接：https://pan.baidu.com/s/1gnscXCWQkVGKyNoh-OkEew ) Download code: 42kd
+For the full picture, [click here！](https://pan.baidu.com/s/1gnscXCWQkVGKyNoh-OkEew ) Download code: 42kd
